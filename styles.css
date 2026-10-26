@@ -150,3 +150,9 @@ footer {
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 212, 255, 0.2);
 }
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
